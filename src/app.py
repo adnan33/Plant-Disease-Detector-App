@@ -72,7 +72,7 @@ with open(style_path) as f:
 
 st.title(title)
 st.text("Currently only citrus, tomato and potato plant evaluation is available.")
-st.write("For more details, see the [github](https://github.com/adnan33/Plant-Disease-Detector-App.git) repository!!!")
+st.write("For more details, source code and test images, see the [github](https://github.com/adnan33/Plant-Disease-Detector-App.git) repository!!!")
 uploaded_file = st.file_uploader("Input Plant Leaf Image", type=['jpg','png','jpeg','bmp'])
 if (uploaded_file!= None and uploaded_file!=[] ) :
     pred(uploaded_file)
