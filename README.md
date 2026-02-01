@@ -1,5 +1,5 @@
 # Plant-Disease-Detector-App
-A demo application of Plant disease detection model built with Streamlit library. Here's the [demo](https://adnan33-plant-disease-detector-app-srcapp-eud76f.streamlitapp.com/)
+A demo application of Plant disease detection model built with Streamlit library. Here's the [demo](https://adnan-plant-disease-detector.streamlitapp.com/)
 
 ### Dataset
 I used [this](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) dataset from kaggle for plant images. For non plant image detection, I used a private dataset for non plant images.
